@@ -10,8 +10,7 @@ gallery:
     alt: "placeholder image 2"
   - url: /assets/images/IMG_20190503_171214.jpg
     image_path: assets/images/IMG_20190503_171214.jpg
-    alt: "placeholder image 3"   
-    
+    alt: "placeholder image 3"
 feature_row:
   - image_path: /assets/images/IMG_20190503_171144.jpg
     alt: "placeholder image 1"
@@ -28,13 +27,15 @@ feature_row:
   - image_path: /assets/images/IMG_20190503_171144.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."            
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/IMG_20190503_194805.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://mmistakes.github.io/minimal-mistakes/docs/helpers/#feature-row"
     btn_label: "Read More"
+header:
+  overlay_image: /assets/images/157553_9dda550ed99445ca995d4be13978af92.jpg
 layout: collection
 permalink: /collection/
 entries_layout: grid
