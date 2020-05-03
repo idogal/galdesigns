@@ -180,7 +180,7 @@
   background: $background-color;
 
   a {
-    display: block;
+    display: flex;
     margin: 0 1rem;
     color: $masthead-link-color;
     text-decoration: none;
@@ -215,7 +215,7 @@
     display: flex;
     -webkit-box-pack: end;
     -ms-flex-pack: end;
-    justify-content: flex-end;
+    justify-content: center;
     -webkit-box-flex: 1;
     -ms-flex: 1;
     flex: 1;
@@ -561,6 +561,6 @@
   }
 
   li ul li ul li ul li ul li ul > li a {
-    padding-left: 3.25rem
+    padding-left: 3.25rem;
   }
 }
